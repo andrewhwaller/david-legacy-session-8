@@ -196,3 +196,15 @@ He said to them, “How is it then that David by the Spirit calls him Lord, sayi
 &emsp;&emsp;until I put your enemies under your feet”’?\
 If David thus calls him Lord, how can he be his son?”
 No one was able to give him an answer, nor from that day did anyone dare to ask him any more questions.
+
+---
+layout: quote
+---
+
+# Ezekiel 34:15--24 (cf. Jeremiah 23:1--8)
+I myself will be the shepherd of my sheep, and I will make them lie down, says the Lord <sc>Lord</sc>.
+I will seek the lost, and I will bring back the strayed, and I will bind up the injured, and I will strengthen the weak, but the fat and the strong I will destroy\.\.\.\.
+Therefore, thus says the Lord GOD to them: I myself will judge between the fat sheep and the lean sheep.
+Because you pushed with flank and shoulder, and butted at all the weak animals with your horns until you scattered them far and wide, I will save my flock, and they shall no longer be ravaged; and I will judge between sheep and sheep. 
+I will set up over them one shepherd, my servant David, and he shall feed them: he shall feed them and be their shepherd.
+And I, the <sc>Lord</sc>, will be their God, and my servant David shall be prince among them; I, the <sc>Lord</sc>, have spoken. 
