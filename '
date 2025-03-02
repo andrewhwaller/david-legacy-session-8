@@ -1,0 +1,153 @@
+---
+theme: default
+favicon: /favicon.ico
+background: /dura_king.jpg
+class: text-center
+lineNumbers: false
+info: |
+  # Presentation by Andrew H. Waller
+
+  Learn more at [Lukan Priorities](https://lukanpriorities.com)
+author: Andrew H. Waller
+presenter: true
+drawings:
+  persist: false
+transition: slide-left
+title: Rebuilding the Fallen Tent - Session 7
+mdc: true
+download: true
+export:
+  format: pdf
+fonts:
+  sans: EB Garamond
+  serif: EB Garamond
+  mono: Fira Code
+  local: SBL Hebrew
+  weights: '300,400,500,600,700'
+  provider: google
+---
+
+# Rebuilding the Fallen Tent
+
+## Session 7: Whose Son is the Son of David?
+
+---
+layout: statement
+---
+
+# How is the character of David developed in early Jewish literature?
+## Chronicles/Ezra-Nehemiah: ca. 4th c. BC
+## *Psalms of Solomon*: ca. 2nd c. BC
+## Qumran: ca. 2nd c. BC--1st c. AD
+## Philo of Alexandria: 1st c. AD
+## Josephus and Pseudo-Philo: 1st c. AD
+
+---
+layout: quote
+---
+
+# *Pss. Sol.* 17:23--51
+See, O Lord, and raise up their king for them, a son of David, for the proper time that you see, God, to rule over Israel your servant. 
+And undergird him with strength to shatter unrighteous rulers. 
+Cleanse Jerusalem from the nations that trample it in destruction, to expel sinners from the inheritance in wisdom, in righteousness, to rub out the arrogance of the sinner like a potter’s vessel, to crush all their support with an iron rod\.\.\.\. 
+And he will cleanse Jerusalem with sanctification, as also from the beginning, for nations to come from the edge of the earth to see his glory, bringing as gifts its utterly weakened sons, and to see the glory of the Lord that God glorified\.\.\.\. 
+For he will not hope in horse and rider and bow, or multiply gold nor silver to himself for battle, and he will not gather hopes by many for the day of war. 
+The Lord himself is his King, the hope of the one who is mighty by the hope of God, and he will show mercy to all the nations before him in fear\.\.\.\.
+Blessed are those who live in those days, to see the good things of Israel in the gathering of tribes; may God do it. 
+May God speed his mercy upon Israel; he will rescue us from the impurity of profane enemies. 
+The Lord himself is our King forever and further. 
+
+<!--
+* This is one of the most descriptive messianic texts from the Second Temple period.
+* This passage combines themes and motifs from several different biblical texts, including Jer 23, Isa 11, Psalm 2, and others.
+  * We have the son of David smashing the evil rulers of the nations, like Psalm 2.
+    * This makes sense in the context of the Hasmonean period, when the Psalms of Solomon were written.
+  * We have the language of purification and cleansing from Ezekiel.
+  * We have a righteous ruler, obeying the law of the king from Deuteronomy, whose own king is God himself.
+  * All of this is connected to the regathering of Israel's tribes; the post-exilic restoration involves this son of David.
+* Notably, none of the biblical passages alluded to contains all of the elements that are included here.
+  * That is, you don't get the powerful king smashing the gentile rulers, the anointed purifier of Israel, and the wise ruler regathering the tribes all in one place in the Hebrew Bible.
+  * We commonly associate these elements with *the Davidic messiah*, but this is the result of a confluence of scriptural traditions rather than a singular stream of thought from the Jewish scriptures.
+-->
+
+---
+layout: quote
+---
+
+# 4Q285 f. 7.1--6
+\[… just as it is written in the book of\] Isaiah the prophet, “And \[the thickets of the forest\] shall be cut down \[with an ax, and Lebanon with its majestic trees wil\]l fall. A shoot shall come out from the stump of Jesse \[and a branch shall grow out of his roots” (Isa. 10:34–11:1).
+This is the\] Branch of David. Then \[all forces of Belial\] shall be judged, \[and the king of the Kittim shall stand for judgment] and the Leader of the congregation—the Bra\[nch of David\]—will have him put to death.
+\[Then all Israel shall come out with timbrel\]s and dancers, and the \[high\] priest shall order \[them to cleanse their bodies from the guilty blood of the c\]orpse\[s of\] the Kittim.
+
+---
+layout: quote
+---
+
+# 4Q174 2.18--3.13
+This “place” is the house that \[they shall build for Him\] in the Last Days, as it is written in the book of \[Moses... (Exod. 15:17–18)\.\.\.\.
+Strangers shall not again defile it, as they formerly defiled the Temp\[le of I\]srael through their sins.
+To that end He has commanded that they build Him a Temple of Adam (or Temple of Humankind)\.\.\.\.
+As for what He said to David, “I \[will give\] you \[rest\] from all your enemies” (2 Sam. 7:11b), this passage means that He will give them rest from \[al\]l the children of Belial, who cause them to stumble, seeking to destroy the\[m by means of\] their \[wickedness\].
+They became party to the plan of Belial in order to cause the S\[ons\] of Li\[ght\] to stumble\.\.\.\.
+“Moreover the <sc>Lord</sc> decl\[ares\] to you that He will make you a house,” and that “I will raise up your offspring after you, and establish the throne of his kingdom \[fore\]ver.
+I will be a father to him, and he will be My son” (2 Sam. 7:11c, 12b, 13b–14a).
+This passage refers to the Shoot of David, who is to arise with the Interpreter of the Law, and who will \[arise\] in Zi\[on in the La\]st Days, as it is written, “And I shall raise up the booth of David that is fallen” (Amos 9:11).
+This passage describes the fallen Branch of David, \[w\]hom He shall raise up to deliver Israel.
+
+---
+layout: quote
+---
+
+# Josephus, *Antiquities* 6.165--166
+Then, taking the oil, with David looking on, \[Samouel\] smeared it on him and spoke softly in his ear, indicating that God had chosen him to rule as king\.\.\.\.
+The Deity then abandoned Saoul and went over to David.
+Once the divine spirit transferred to him, he began to prophesy.
+A certain suffering beset Saoul and demons caused him to suffocate and choke\.\.\.\.
+
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 59.3--5
+Samuel said to Jesse, “Send and bring your son from the flock, for God has chosen him.”
+Jesse sent and brought David, and Samuel anointed him in the midst of his brothers.
+The Lord was with him from that day.
+Then David undertook to sing this song, and he said, “From the ends of the earth I will give praise, and from the days of old I will extol.
+When Abel at the beginning shepherded flocks, his sacrifice was more acceptable than his brother's, and his brother was jealous of him and killed him.
+But for me it has not gone so, because God protected me and delivered me to his angels and to his guardians to protect me.
+For my brothers were jealous of me, and my father and my mother abandoned me.
+When the prophet came, they did not call to me\.\.\.\.
+But God extended to me his right hand and his mercy.
+Therefore I will not cease singing praises all the days of my life.”
+While David was still speaking, behold a fierce lion from the forest and a bear from the mountain seized the oxen of David\.\.\.\.
+David went out after them and took stones from the forest and killed them.
+God said to him, “Behold, with stones I have delivered up these beasts for you.
+This will be a sign for you that hereafter you will kill the enemy of my people with stones.”
+
+---
+layout: quote
+---
+
+# Pseudo-Philo, *Liber Antiquitatum Biblicarum* 61.5--9
+David set out, and he took seven stones and wrote on them the names of his fathers, Abraham, Isaac, and Jacob, Moses and Aaron, and his own name and that of the Lord.
+God sent Zeruel, the angel in charge of power.
+
+\[David taunts Goliath, etc.\]
+
+David put a stone in the sling and struck the Philistine on his forehead.
+He ran toward him and unsheathed his sword. Goliath, while he still had life in him, said to him, “Hurry and kill me, and rejoice.”
+David said to him, “Before you die, open your eyes and see your slayer who has killed you.”
+The Philistine looked and saw the angel and said, “Not you alone killed me, but also he who was present with you, whose appearance is not like the appearance of a man.”
+Then David cut off his head.
+The angel of the Lord changed David's appearance, and no one recognized him.
+When Saul saw David, he asked him who he was, and there was no one who recognized him.
+
+---
+layout: statement
+---
+# Matthew V. Novenson: “\[N\]ot all Jewish leaders are messiahs, not all messiahs are royal, not all royal messiahs are Davidic, and not all Davidic messiahs are sons of David.”
+
+<!--
+* *The Grammar of Messianism: An Ancient Jewish Political Idiom and Its Users*, New York, N.Y.: Oxford University Press, 2016, 111.
+-->
+
