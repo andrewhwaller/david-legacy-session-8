@@ -187,10 +187,12 @@ But when the chief priests and the scribes saw the amazing things that he did, a
 ---
 layout: quote
 ---
+
+# Matthew 22:41--46
 Now while the Pharisees were gathered together, Jesus asked them this question: “What do you think of the Messiah? Whose son is he?” They said to him, “The son of David.”
-He said to them, “How is it then that David by the Spirit calls him Lord, saying, 
-&emsp;‘The Lord said to my Lord, 
-&emsp;&emsp;“Sit at my right hand, 
-&emsp;&emsp;until I put your enemies under your feet”’? 
+He said to them, “How is it then that David by the Spirit calls him Lord, saying,\
+&emsp;‘The Lord said to my Lord,\
+&emsp;&emsp;“Sit at my right hand,\
+&emsp;&emsp;until I put your enemies under your feet”’?\
 If David thus calls him Lord, how can he be his son?”
 No one was able to give him an answer, nor from that day did anyone dare to ask him any more questions.
